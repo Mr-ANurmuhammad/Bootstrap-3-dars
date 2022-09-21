@@ -1,0 +1,16 @@
+.pricing {
+   text-align: center;
+   margin-right: auto;
+   margin-left: auto;
+   max-width: 500px;
+   margin-bottom: 70px;
+   padding-top: 60px;
+}
+
+.pricing-text {
+   opacity: 0.8;
+}
+
+.users-text {
+   opacity: 0.9;
+}
